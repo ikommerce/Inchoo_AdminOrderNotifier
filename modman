@@ -1,0 +1,3 @@
+app/code/community/Inchoo/AdminOrderNotifier						app/code/community/Inchoo/AdminOrderNotifier
+app/etc/modules/Inchoo_AdminOrderNotifier.xml						app/etc/modules/Inchoo_AdminOrderNotifier.xml
+app/locale/en_US/template/email/inchoo_adminOrderNotifier.html		app/locale/en_US/template/email/inchoo_adminOrderNotifier.html
